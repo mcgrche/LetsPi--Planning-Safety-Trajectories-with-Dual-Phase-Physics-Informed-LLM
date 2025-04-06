@@ -13,15 +13,15 @@ Foundation models have demonstrated strong reasoning and generalization capabili
 ## Figures
 
 ### Figure 1
-![Figure 1](assets/figure_1.png)
+![LetsPi Framework](assets/figure_1.png)
 **Figure 1 Description (Placeholder)**: *LetsPi, a dual-phase, physics-informed LLM architecture for safe trajectory planning. The memory collection phase builds the knowledge database through in-depth reasoning and reflection using multiple safety metrics. The fast inference phase distills knowledge from the memory database, enabling timely trajectory planning.*
 
 ### Figure 2
-![Figure 2](assets/fig2_prompt3.png)
+![Physics-informed Prompt and Fast Prompt Architecture](assets/fig2_prompt3.png)
 **Figure 2 Description (Placeholder)**: *a) Physics-informed Prompt Architecture. Essential components include base prompt construction, social force integration, scenario description, and output instruction. Two optional prompts are used for memory enhancement and refinement. b) Fast Prompt Architecture. Without reflection and safety refinement,  Fast Prompt comprises simplified base prompt construction, social force integration, scenario description components and minimalistic output requirement with dedicated examples from memory.*
 
 ### Figure 3
-![Figure 3](assets/figure_3_reflection.png)
+![Reflection Mechanism](assets/figure_3_reflection.png)
 **Figure 3 Description (Placeholder)**: *Reflection Module workflow.*
 
 ## Code
